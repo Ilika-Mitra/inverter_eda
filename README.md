@@ -1,11 +1,10 @@
-![image](https://github.com/Ilika-Mitra/inverter_eda/assets/68841287/95bca901-c967-4c5b-b1a1-1d9b256c2093)
+![image](https://github.com/Ilika-Mitra/inverter_eda/assets/68841287/da32f50a-dfea-47e3-a397-685866e18d96)
 # inverter_eda
-## prelayout simulations
-###1. transient analysis
+## 1. prelayout simulations
+A. transient analysis
 have done the transient analysis of the inverter in the folder of /inverter/xschem 
 ![image](https://github.com/Ilika-Mitra/inverter_eda/assets/68841287/b167bd62-c839-449f-a4fc-e57397721aaf)
 
-###
 though there are other prelayout simulation ssuch as the timing and dc analysis, power analysi of a simple inverter which you can find in the github repo by [Mayank Gupta]([url](https://github.com/D-curs-D/Inverter-design-and-analysis-using-sky130pdk/tree/main)https://github.com/D-curs-D/Inverter-design-and-analysis-using-sky130pdk/tree/main)
 
 ##2. layout
