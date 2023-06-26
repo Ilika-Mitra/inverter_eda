@@ -1,6 +1,6 @@
 ![image](https://github.com/Ilika-Mitra/inverter_eda/assets/68841287/da32f50a-dfea-47e3-a397-685866e18d96)
 # inverter_eda
-## 1. prelayout simulations
+**1. prelayout simulations**
 A. transient analysis
 have done the transient analysis of the inverter in the folder of /inverter/xschem 
 ![image](https://github.com/Ilika-Mitra/inverter_eda/assets/68841287/b167bd62-c839-449f-a4fc-e57397721aaf)
